@@ -1,0 +1,14 @@
+1. Initialization
+-> Recovery/New Instance: Works Perfectly
+-> Leader Failure/Election Timeout: Works Perfectly
+
+2. Voting a New Leader: Works Perfectly
+
+3. Colleting Voting: Works Perfectly
+
+4. Broadcasting Message: Works Perfectly
+
+5. Replicate from Leader to Follower: Works Perfectly
+
+6. Followers receiving Messages: Works Perfectly
+
